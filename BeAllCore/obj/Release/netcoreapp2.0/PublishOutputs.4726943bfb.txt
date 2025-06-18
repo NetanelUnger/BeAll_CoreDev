@@ -1,0 +1,12 @@
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\appsettings.Development.json
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\appsettings.json
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.PrecompiledViews.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.PrecompiledViews.pdb
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.runtimeconfig.json
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.pdb
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\MongoDB.Driver.Core.dll
+C:\Users\netan\Desktop\BeAllCore\BeAllCore\obj\Release\netcoreapp2.0\PubTmp\Out\BeAllCore.deps.json

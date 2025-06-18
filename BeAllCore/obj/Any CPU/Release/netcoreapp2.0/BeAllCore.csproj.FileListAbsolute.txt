@@ -1,0 +1,11 @@
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\bin\Any CPU\Release\netcoreapp2.0\BeAllCore.deps.json
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\bin\Any CPU\Release\netcoreapp2.0\BeAllCore.runtimeconfig.json
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\bin\Any CPU\Release\netcoreapp2.0\BeAllCore.runtimeconfig.dev.json
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\bin\Any CPU\Release\netcoreapp2.0\BeAllCore.dll
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\bin\Any CPU\Release\netcoreapp2.0\BeAllCore.pdb
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.csprojResolveAssemblyReference.cache
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.csproj.CoreCompileInputs.cache
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.AssemblyInfoInputs.cache
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.AssemblyInfo.cs
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.dll
+D:\Tigaro projects\BeAll\BeAllCore\BeAllCore\BeAllCore\obj\Any CPU\Release\netcoreapp2.0\BeAllCore.pdb

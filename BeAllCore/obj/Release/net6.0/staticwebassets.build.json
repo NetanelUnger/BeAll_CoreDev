@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "A4/ECTi5qxVGTbNQiQ7edA06U3hfqRqlfQnLaay50yw=",
+  "Source": "BeAllCore",
+  "BasePath": "_content/BeAllCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BeAllCore\\wwwroot",
+      "Source": "BeAllCore",
+      "ContentRoot": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\wwwroot\\",
+      "BasePath": "_content/BeAllCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
