@@ -11,6 +11,7 @@ using System.Threading;
 using BeAllCore.Forms;
 using System.Text.RegularExpressions;
 using System.Security.Cryptography;
+using Newtonsoft.Json.Linq;
 
 
 namespace BeAllCore.Controllers
@@ -22,6 +23,29 @@ namespace BeAllCore.Controllers
         [HttpPost("/[controller]/firstlogIn6Digits", Name = nameof(FirstlogIn6Digits))]
         public async Task<IActionResult> FirstlogIn6Digits([FromBody] UserFirstLogInForm InputForm, CancellationToken ct)
         {
+            if (InputForm.Token != null)
+            {
+                if (InputForm.Token != "")
+                {
+                    var ans = BeAllCore.Security.RecaptchaVerifier.VerifyToken("omgate-beall", "6LfkIEkrAAAAAPy3J4s8dCxRN2lfFA9Bq77WVPx7", InputForm.Token);
+                    var ans2 = BeAllCore.Security.RecaptchaVerifier.VerifyToken("omgate-beall", "6Le5B0orAAAAACrLRXrb1eOABzyAlWjyd_O2ktNu", InputForm.Token);
+                    await Task.WhenAll(ans, ans2);
+
+                    if ( (ans.Result != true) && (ans2.Result != true) )
+                    {
+                        return ApiResponse.Error(Request, "Captcha token error", "Captcha token error", ApiError.Err_NoToken);
+                    }
+                }
+                else
+                {
+                    return ApiResponse.Error(Request, "no Captcha token error", "no Captcha token error", ApiError.Err_NoToken);
+                }
+            }
+            else
+            {
+                return ApiResponse.Error(Request, "no Captcha token error", "no Captcha token error", ApiError.Err_NoToken);
+            }
+
             string UserPhoneNumber;
             //validate
             if (InputForm.UserPhoneNumber == null)
@@ -140,12 +164,33 @@ namespace BeAllCore.Controllers
         }
 
 
-
-
         // POST /Users/FirstLogIn
         [HttpPost("/[controller]/firstlogIn", Name = nameof(FirstLogIn))]
         public async Task<IActionResult> FirstLogIn([FromBody]UserFirstLogInForm InputForm, CancellationToken ct)
         {
+            if (InputForm.Token != null)
+            {
+                if (InputForm.Token != "")
+                {
+                    var ans = BeAllCore.Security.RecaptchaVerifier.VerifyToken("omgate-beall", "6LfkIEkrAAAAAPy3J4s8dCxRN2lfFA9Bq77WVPx7", InputForm.Token);
+                    var ans2 = BeAllCore.Security.RecaptchaVerifier.VerifyToken("omgate-beall", "6Le5B0orAAAAACrLRXrb1eOABzyAlWjyd_O2ktNu", InputForm.Token);
+                    await Task.WhenAll(ans, ans2);
+
+                    if ((ans.Result != true) && (ans2.Result != true))
+                    {
+                        return ApiResponse.Error(Request, "Captcha token error", "Captcha token error", ApiError.Err_NoToken);
+                    }
+                }
+                else
+                {
+                    return ApiResponse.Error(Request, "no Captcha token error", "no Captcha token error", ApiError.Err_NoToken);
+                }
+            }
+            else
+            {
+                return ApiResponse.Error(Request, "no Captcha token error", "no Captcha token error", ApiError.Err_NoToken);
+            }
+
             string UserPhoneNumber;
             //validate
             if (InputForm.UserPhoneNumber == null)

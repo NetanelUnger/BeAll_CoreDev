@@ -11,7 +11,7 @@ namespace BeAllCore.Security
 
             CreateAssessmentRequest request = new CreateAssessmentRequest
             {
-                ParentAsProjectName = new ProjectName(projectId),
+                ParentAsProjectName = new Google.Api.Gax.ResourceNames.ProjectName(projectId),
                 Assessment = new Assessment
                 {
                     Event = new Event

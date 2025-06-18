@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3C2GimmF4K7koAiBdIh1lI0PHO/INB9U4TG1jzMQZQY=",
+  "Hash": "fc2c7JIvEjzqRRhbbxg9Jn/lyP4vra+P/2LWot/7tmk=",
   "Source": "BeAllCore",
   "BasePath": "_content/BeAllCore",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BeAllCore\\wwwroot",
       "Source": "BeAllCore",
-      "ContentRoot": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\wwwroot\\",
       "BasePath": "_content/BeAllCore",
       "Pattern": "**"
     }

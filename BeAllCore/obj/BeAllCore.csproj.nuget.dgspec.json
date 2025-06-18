@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj": {}
+    "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\BeAllCore.csproj": {}
   },
   "projects": {
-    "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj": {
+    "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\BeAllCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj",
+        "projectUniqueName": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\BeAllCore.csproj",
         "projectName": "BeAllCore",
-        "projectPath": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj",
-        "packagesPath": "C:\\Users\\Nati.DOMAIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\obj\\",
+        "projectPath": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\BeAllCore.csproj",
+        "packagesPath": "C:\\Users\\netan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nati.DOMAIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\netan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Google.Cloud.RecaptchaEnterprise.V1": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.23.1, )"

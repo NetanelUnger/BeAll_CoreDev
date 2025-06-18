@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\",
+  "WorkspaceRootPath": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|d:\\dropbox\\developpersonal\\beall\\beallcore latest dev\\beallcore\\beallcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\beallcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|d:\\dropbox\\developpersonal\\beall\\beallcore latest dev\\beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|d:\\dropbox\\developpersonal\\beall\\beallcore latest dev\\beallcore\\controllers\\gatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\controllers\\gatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|d:\\dropbox\\developpersonal\\beall\\beallcore latest dev\\beallcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|d:\\dropbox\\developpersonal\\beall\\beallcore latest dev\\beallcore\\object\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\object\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\security\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\security\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,25 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GatesController.cs",
-              "DocumentMoniker": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Controllers\\GatesController.cs",
-              "RelativeDocumentMoniker": "BeAllCore\\Controllers\\GatesController.cs",
-              "ToolTip": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Controllers\\GatesController.cs",
-              "RelativeToolTip": "BeAllCore\\Controllers\\GatesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Title": "RecaptchaVerifier.cs",
+              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "RelativeDocumentMoniker": "BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "RelativeToolTip": "BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:31:48.005Z",
+              "WhenOpened": "2025-06-18T17:00:51.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MlabClass.cs",
-              "DocumentMoniker": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\DataBase\\MlabClass.cs",
+              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\DataBase\\MlabClass.cs",
               "RelativeDocumentMoniker": "BeAllCore\\DataBase\\MlabClass.cs",
-              "ToolTip": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\DataBase\\MlabClass.cs",
+              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\DataBase\\MlabClass.cs",
               "RelativeToolTip": "BeAllCore\\DataBase\\MlabClass.cs",
-              "ViewState": "AgIAAIcDAAAAAAAAAAAnwMIDAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T19:21:50.519Z",
               "EditorCaption": ""
@@ -61,38 +53,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BeAllCore",
-              "DocumentMoniker": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj",
-              "RelativeDocumentMoniker": "BeAllCore\\BeAllCore.csproj",
-              "ToolTip": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\BeAllCore.csproj",
-              "RelativeToolTip": "BeAllCore\\BeAllCore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T19:14:16.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Objects.cs",
-              "DocumentMoniker": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Object\\Objects.cs",
-              "RelativeDocumentMoniker": "BeAllCore\\Object\\Objects.cs",
-              "ToolTip": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Object\\Objects.cs",
-              "RelativeToolTip": "BeAllCore\\Object\\Objects.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgvxsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T20:01:34.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BeAllCore\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Dropbox\\DevelopPersonal\\BeAll\\BeAllCore Latest dev\\BeAllCore\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BeAllCore\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADIBAAAAAAAAAAArwPEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T06:07:06.571Z",
               "EditorCaption": ""
