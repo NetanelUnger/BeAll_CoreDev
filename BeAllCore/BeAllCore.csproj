@@ -23,6 +23,7 @@
   <ItemGroup>
     <PackageReference Include="MongoDB.Driver" Version="2.23.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Google.Cloud.RecaptchaEnterprise.V1" Version="2.3.0" />
   </ItemGroup>
 
   <ItemGroup>
