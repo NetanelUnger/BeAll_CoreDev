@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <NameOfLastUsedPublishProfile>D:\Dropbox\DevelopPersonal\BeAll\BeAllCore Latest dev\BeAllCore\Properties\PublishProfiles\BeAllCore-Dev - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\Properties\PublishProfiles\BeAllCore-Dev - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <WebStackScaffolding_ViewDialogWidth>600.208695652174</WebStackScaffolding_ViewDialogWidth>
   </PropertyGroup>
 </Project>

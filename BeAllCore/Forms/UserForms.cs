@@ -58,6 +58,7 @@ namespace BeAllCore.Forms
     #region "user forms"
     public class UserFirstLogInForm
     {
+        public string Token { get; set; }
         public String UserPhoneNumber { get; set; }
     }
 
