@@ -1,4 +1,6 @@
 using Google.Cloud.RecaptchaEnterprise.V1;
+using System;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace BeAllCore.Security
@@ -7,6 +9,9 @@ namespace BeAllCore.Security
     {
         public static async Task<bool> VerifyToken(string projectId, string siteKey, string token)
         {
+            string credentialPath = Path.Combine(AppContext.BaseDirectory, "Credentials", "recaptcha.json");
+            Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credentialPath);
+
             RecaptchaEnterpriseServiceClient client = await RecaptchaEnterpriseServiceClient.CreateAsync();
 
             CreateAssessmentRequest request = new CreateAssessmentRequest

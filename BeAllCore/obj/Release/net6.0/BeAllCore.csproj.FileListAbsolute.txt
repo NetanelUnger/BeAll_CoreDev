@@ -361,12 +361,6 @@ C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.build.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.development.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.build.endpoints.json
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets\msbuild.BeAllCore.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets\msbuild.BeAllCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets\msbuild.build.BeAllCore.props
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeAllCore.props
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BeAllCore.props
-C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.pack.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\BeAllCore.csproj.Up2Date
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\BeAllCore.dll
@@ -374,3 +368,9 @@ C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\BeAllCore.pdb
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\BeAllCore.genruntimeconfig.cache
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\ref\BeAllCore.dll
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\bin\Release\net6.0\Credentials\omgate-beall-a1d02cc167ec.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\rpswa.dswa.cache.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\rjimswa.dswa.cache.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\staticwebassets.build.json.cache

@@ -2,6 +2,7 @@ C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\web.config
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\Credentials\omgate-beall-a1d02cc167ec.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\BeAllCore.dll
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\BeAllCore.deps.json
 C:\Users\netan\Dropbox\DevelopPersonal\BeAll\FromGit\BeAll_CoreDev\BeAllCore\obj\Release\net6.0\PubTmp\Out\BeAllCore.runtimeconfig.json

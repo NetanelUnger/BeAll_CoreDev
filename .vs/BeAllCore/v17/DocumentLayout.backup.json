@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\database\\mlabclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\security\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\security\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|c:\\users\\netan\\dropbox\\developpersonal\\beall\\fromgit\\beall_coredev\\beallcore\\credentials\\omgate-beall-a1d02cc167ec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4FFBBA7-3537-4A2D-8D3E-80565D9FCCD9}|BeAllCore\\BeAllCore.csproj|solutionrelative:beallcore\\credentials\\omgate-beall-a1d02cc167ec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecaptchaVerifier.cs",
-              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
-              "RelativeDocumentMoniker": "BeAllCore\\Security\\RecaptchaVerifier.cs",
-              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
-              "RelativeToolTip": "BeAllCore\\Security\\RecaptchaVerifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:00:51.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MlabClass.cs",
-              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\DataBase\\MlabClass.cs",
-              "RelativeDocumentMoniker": "BeAllCore\\DataBase\\MlabClass.cs",
-              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\DataBase\\MlabClass.cs",
-              "RelativeToolTip": "BeAllCore\\DataBase\\MlabClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:21:50.519Z",
+              "Title": "omgate-beall-a1d02cc167ec.json",
+              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Credentials\\omgate-beall-a1d02cc167ec.json",
+              "RelativeDocumentMoniker": "BeAllCore\\Credentials\\omgate-beall-a1d02cc167ec.json",
+              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Credentials\\omgate-beall-a1d02cc167ec.json",
+              "RelativeToolTip": "BeAllCore\\Credentials\\omgate-beall-a1d02cc167ec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T19:15:58.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BeAllCore\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BeAllCore\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Title": "RecaptchaVerifier.cs",
+              "DocumentMoniker": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "RelativeDocumentMoniker": "BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "ToolTip": "C:\\Users\\netan\\Dropbox\\DevelopPersonal\\BeAll\\FromGit\\BeAll_CoreDev\\BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "RelativeToolTip": "BeAllCore\\Security\\RecaptchaVerifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:07:06.571Z",
+              "WhenOpened": "2025-06-25T19:14:57.415Z",
               "EditorCaption": ""
             }
           ]
